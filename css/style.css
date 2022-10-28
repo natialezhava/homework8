@@ -1,0 +1,17 @@
+.p {
+    width: 710px;
+    height: 158px;
+    font-size: ;
+}
+.icon {
+    font-size: 99.6px;
+    color: #A80E0E;
+}
+.div-i {
+    margin-left: 30px;
+}
+.wraper {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
