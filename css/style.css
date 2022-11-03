@@ -1,7 +1,7 @@
 .p {
     width: 710px;
     height: 158px;
-    font-size: ;
+    font-size: 20px;
 }
 .icon {
     font-size: 99.6px;
@@ -15,3 +15,64 @@
     align-items: center;
     justify-content: center;
 }
+
+/* section two */
+
+/* .section2:nth-child(1) {
+    width: 326px;
+    height: 316px;
+    background-color: antiquewhite;
+}
+.section2:nth-child(2) {
+    width: 326px;
+    height: 316px;
+    background-color: antiquewhite;
+}
+.section2:nth-child(3) {
+    width: 326px;
+    height: 316px;
+    background-color: antiquewhite;
+}
+.section2:nth-child(4) {
+    width: 326px;
+    height: 316px;
+    background-color: antiquewhite;
+} */
+.section22 {
+    width: 1938px;
+    /* height: 654px; */
+    margin: 0 auto;
+}
+.section22_maindiv1 {
+    width: 1450px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.box:nth-child(1) {
+    width: 326px;
+    height: 316px;
+    color: black;
+}
+.box:nth-child(2) {
+    width: 326px;
+    height: 316px;
+    color: black;
+    justify-content: center;
+}
+.box:nth-child(3) {
+    width: 326px;
+    height: 316px;
+    color: black;
+    justify-content: center;
+    align-items: center;
+}
+.box:nth-child(4) {
+    width: 326px;
+    height: 316px;
+    color: black;
+    justify-content: center;
+}
+
+
